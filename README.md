@@ -101,7 +101,6 @@ Simular una clase con **4 estudiantes**, cada uno con sus 5 notas. Mostrar:
 * Bucles (`for`, `foreach`)
 * Funciones auxiliares (`métodos estáticos`)
 * Algoritmos de ordenamiento (ej. burbuja)
-* Entrada de datos (`Scanner`) o valores fijos
 
 ---
 
